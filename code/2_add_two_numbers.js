@@ -1,7 +1,5 @@
 //My Solution
 var addTwoNumbers = function(l1, l2) {
-
-    //Initializing the variables
     var number1 = [];
     var number2 = [];
     var holdingList = l1;
